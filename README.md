@@ -70,7 +70,7 @@ Contributions are welcome! If you'd like to improve the app or add new features:
 ## 📞 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-📧 Email: your.email@example.com  
+📧 Email: [Email](mailto:paramveer7267@gmail.com)  
 💬 LinkedIn: [Paramveer Singh](https://www.linkedin.com/in/paramveer7267)
 
 ---
